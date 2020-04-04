@@ -17,6 +17,8 @@
 .primary_button {
   color:#FFFFFF;
 }
+.shape {
+}
 .image {
 }
 .button {
@@ -72,6 +74,8 @@
   text-align:left;
 }
 .table_cell {
+}
+.connector {
 }
 .form_hint {
   color:#999999;
